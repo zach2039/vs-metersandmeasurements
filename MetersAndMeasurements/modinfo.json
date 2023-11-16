@@ -1,0 +1,16 @@
+{
+    "type": "code",
+    "modid": "metersandmeasurements",
+    "name": "Meters and Measurements",
+    "authors": [
+        "Zach2039"
+    ],
+    "description": "A Vintage Story mod that adds tools for measuring various in-game quantities.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18.15"
+    },
+    "Side": "Universal",
+    "RequiredOnClient": true,
+    "RequiredOnServer": true
+}
